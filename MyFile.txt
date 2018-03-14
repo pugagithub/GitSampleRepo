@@ -1,0 +1,24 @@
+
+================================================================================
+Git Basic Commands with sample project
+Java 8 ==> Lambda Expressions
+JPA
+Unit Testing / Integration Testing / Selenium / Gauge
+Spring && Spring Boot
+CI/CD ==> Gradle , Jenkins
+================================================================================
+
+
+Jenkins / AWS Link
+AWS
+vagrant
+Ansible
+
+Vue.js / Webpack
+
+
+FlyWay Migration / ApplicationContextAwareSpringJdbcMigrationResolver
+
+Arrow Operator in Java / Predicate
+
+org.flywaydb.core.api.migration.spring.SpringJdbcMigration
