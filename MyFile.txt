@@ -1,5 +1,5 @@
 
-Updating from the server ui
+Second Time Updating from the server ui
 
 ================================================================================
 Git Basic Commands with sample project
